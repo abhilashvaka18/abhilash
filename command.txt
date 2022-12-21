@@ -1,0 +1,9 @@
+mkdir cdd
+cd cdd
+vi hello.txt
+cat hello.txt
+git status
+git add
+git status
+git comit -m "version1"
+git push hello.txt:
